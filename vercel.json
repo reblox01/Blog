@@ -13,7 +13,7 @@
     "env": {
       "APP_ENV": "production",
       "APP_DEBUG": "true",
-      "APP_URL": "http://localhost",
+      "APP_URL": "https://your-production-url.com",
       "APP_KEY": "base64:NU2OsgUolGolg5bi+dMk0gkhaDdRs3WghyeCK4VM8g4=",
       "APP_CONFIG_CACHE": "/tmp/config.php",
       "APP_EVENTS_CACHE": "/tmp/events.php",
